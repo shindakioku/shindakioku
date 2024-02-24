@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋 I'm Anton
 
-<!--
-**shindakioku/shindakioku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇧🇬 I live in Bulgaria, Sofia.
+- 🐘 I'm a back-end developer
+- ✉️ You can shoot me an email at [shindakioku@gmail.com](mailto:shindakioku@gmail.com).
 
-Here are some ideas to get you started:
+## 📊 Github Stats
+<a href="https://github.com/shindakioku">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shindakioku&show_icons=true&theme=dark&count_private=true" alt="shindakioku GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shindakioku&theme=dark&layout=compact" 
+    alt="shindakioku GitHub Top Languages" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 My fancy badge area
+
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![f#](https://img.shields.io/badge/F%23-20232A?style=for-the-badge&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
