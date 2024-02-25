@@ -5,9 +5,7 @@
 
 ## 📊 Github Stats
 <a href="https://github.com/shindakioku">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shindakioku&show_icons=true&theme=dark&count_private=true" alt="shindakioku GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shindakioku&theme=dark&layout=compact" 
-    alt="shindakioku GitHub Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shindakioku&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&bg_color=000" width=700 />
 </a>
 
 
